@@ -38,7 +38,14 @@
 
 ### 2. Manejador de Expresiones carpeta Problema2
 
-### 3. asdad
+### 3. Iteradores en Python
+
+## a) Suspenso
+
+<img width="164" height="248" alt="image" src="https://github.com/user-attachments/assets/ebcffcf7-f0e1-4c0c-82c2-eda6a660ae76" />
+
+b) Misterio
+
 
 ### 4. Implementacion en carpeta Problema4
 
